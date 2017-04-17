@@ -6,4 +6,6 @@
 3. a 
 4. list
 
-[here is a link](https://github.com/dinahhandel/NYUclasspractice)
+[here is a link](https://github.com/dinahhandel/NYUclasspractice)  
+
+Markdown is *similar* to HTML
