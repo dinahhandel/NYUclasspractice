@@ -2,5 +2,5 @@
 
 ### This is a smaller header
 
-**This text is bold  
-[here is a link]()
+** This text is bold  
+[here is a link](https://github.com/dinahhandel/NYUclasspractice)
